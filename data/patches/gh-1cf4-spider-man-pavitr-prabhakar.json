@@ -1,0 +1,96 @@
+{
+	"id": -1,
+	"name": "Spider-Man (Pavitr Prabhakar)",
+	"description": "Spider-Man (Pavitr Prabhakar) is a superhero appearing in American comic books published by Marvel Comics since 2004. He is an alternate version of Spider-Man who lives in Mumbai/Mumbattan, India.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Spider-Man_(Pavitr_Prabhakar)"
+		],
+		"subreddit": [
+			"Spiderman",
+			"india"
+		]
+	},
+	"path": {
+		"176": [
+			[
+				460,
+				-284
+			],
+			[
+				460,
+				-284
+			],
+			[
+				459,
+				-279
+			],
+			[
+				454,
+				-271
+			],
+			[
+				459,
+				-264
+			],
+			[
+				452,
+				-256
+			],
+			[
+				457,
+				-251
+			],
+			[
+				464,
+				-250
+			],
+			[
+				471,
+				-254
+			],
+			[
+				472,
+				-256
+			],
+			[
+				468,
+				-264
+			],
+			[
+				467,
+				-267
+			],
+			[
+				472,
+				-273
+			],
+			[
+				468,
+				-279
+			],
+			[
+				467,
+				-284
+			],
+			[
+				463,
+				-284
+			],
+			[
+				459,
+				-284
+			],
+			[
+				459,
+				-284
+			]
+		]
+	},
+	"center": {
+		"176": [
+			463,
+			-258
+		]
+	}
+}
